@@ -1,16 +1,32 @@
-## Hi there 👋
+# Привет, я Magomed — Go-разработчик! ✨
 
-<!--
-**Sneypsleep90/Sneypsleep90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Замените ссылку на свою гифку -->
 
-Here are some ideas to get you started:
+![Header](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Обо мне
+
+Я Magomed — студент **РТУ МИРЭА** и backend-разработчик с упором на **Golang**, **Docker** и **PostgreSQL**. Пишу быстрые, надёжные и масштабируемые сервисы. Люблю чистый код и автоматизацию процессов.
+
+---
+
+## 🛠️ Мой стек
+
+![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go\&logoColor=white\&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker\&logoColor=white\&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql\&logoColor=white\&style=for-the-badge)
+
+<!-- Замените ссылку на свою гифку про программирование -->
+
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
+
+## 📧 Контакты
+
+* Telegram: [@your\_username](https://t.me/your_username)
+* Email: [your\_email@example.com](mailto:your_email@example.com)
+
+
+
+> "Код должен быть написан так, как будто тот, кто его сопровождает, — это жестокий псих, знающий, где ты живёшь."
