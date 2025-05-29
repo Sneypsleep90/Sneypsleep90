@@ -24,8 +24,8 @@
 
 ## 📧 Контакты
 
-* Telegram: [@your\_username](https://t.me/your_username)
-* Email: [your\_email@example.com](mailto:your_email@example.com)
+* Telegram: [@sneyp_sleep](https://t.me/sneyp_sleep)
+* Email: [magamed4924@mail.ru](magamed4924@mail.ru)
 
 
 
