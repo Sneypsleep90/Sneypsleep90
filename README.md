@@ -2,7 +2,7 @@
 
 <!-- Замените ссылку на свою гифку -->
 
-![Header](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+
 
 ## 👋 Обо мне
 
