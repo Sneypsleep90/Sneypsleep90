@@ -18,7 +18,7 @@
 
 ## 💻 Немного про процесс
 <!-- Можно заменить на свою гифку -->
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NwYTIwcW5zbnJpdnJldGhmNmNtbzhmbHYybHFyb3V5Y2dxcndnbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G2cpDFcKzAPMScb0MC/giphy.gif)
 
 ---
 
