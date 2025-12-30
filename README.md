@@ -1,33 +1,18 @@
-# Привет, я Magomed — Go-разработчик! 🚀
+# 💫 About Me:
+Я Magomed — студент РТУ МИРЭА и backend-разработчик с упором на Golang.<br>Создаю быстрые, надёжные и масштабируемые сервисы.<br>Люблю чистый код, автоматизацию процессов и архитектурно продуманные решения.
 
-## 👋 Обо мне
-Я Magomed — студент **РТУ МИРЭА** и backend-разработчик с упором на **Golang**.  
-Создаю быстрые, надёжные и масштабируемые сервисы.  
-Люблю **чистый код**, автоматизацию процессов и архитектурно продуманные решения.
 
----
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:magamed4924@mail.ru) 
 
-## 🛠️ Мой стек
-![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SneypSleep90&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SneypSleep90&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SneypSleep90&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=SneypSleep90&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💻 Немного про процесс
-<!-- Можно заменить на свою гифку -->
-![Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NwYTIwcW5zbnJpdnJldGhmNmNtbzhmbHYybHFyb3V5Y2dxcndnbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G2cpDFcKzAPMScb0MC/giphy.gif)
-
----
-
-## 📧 Контакты
-- Telegram: [@sneyp_sleep](https://t.me/sneyp_sleep)  
-- Email: [magamed4924@mail.ru](mailto:magamed4924@mail.ru)
-
----
-
-## 💡 Цитата, которая меня вдохновляет
-> "Теория вероятности и закон больших чисел утверждают: иногда нужно пытаться снова и снова, чтобы получить желаемый результат. Чем больше пытаешься, тем скорее получится.  
-> Или, как я объяснил кенту, в сущности, иногда просто надо не сдаваться."
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
