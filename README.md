@@ -1,4 +1,4 @@
-### hey, i'm sneyp 👋
+### hey, i'm Magomed 👋
 
 backend developer focused on building scalable systems
 
