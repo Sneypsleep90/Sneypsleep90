@@ -1,6 +1,6 @@
 ### hey, i'm Magomed 👋
 
-backend developer focused on building scalable systems
+developer focused on building scalable systems
 
 ---
 
